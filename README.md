@@ -18,7 +18,7 @@
 - Visual Studio <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="Logo" width="30" height="20">
 
 ## **Major Projects**
-- Reddit profile browser 
-<img src="instagram_dark.png" alt="Logo" width="259" height="194">
 - Instagram follow/like bot
+<img src="instagram_dark.png" alt="Logo" width="259" height="194">
+- Reddit profile browser
 <img src="redditbot.png" alt="Logo" width="225" height="225">
