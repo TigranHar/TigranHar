@@ -19,5 +19,6 @@
 
 ## **Major Projects**
 - Reddit profile browser 
-
+<img src="instagram_dark.png" alt="Logo" width="259" height="194">
 - Instagram follow/like bot
+<img src="redditbot.png" alt="Logo" width="225" height="225">
