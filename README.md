@@ -3,6 +3,7 @@
 ## **Languages Used (For Backend)**
 - C# <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="Logo" width="35" height="20">
 - NodeJS  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Logo" width="30" height="20">
+- Java <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Logo" width="30" height="20">
 
 ## **"Languages" Used (For Frontend)**
 - Javascript<img src="http://www.acadecap.org/wp-content/uploads/2016/07/Javascript.png" alt="Logo" width="35" height="20">
