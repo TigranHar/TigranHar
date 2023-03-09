@@ -13,6 +13,8 @@
 ## **IDEs**
 - Visual Studio Code <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Logo" width="18" height="20">
 - Visual Studio <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="Logo" width="30" height="20">
+- Eclipse <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Logo" width="30" height="20">
+- Intellij Idea <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="Logo" width="30" height="20">
 
 ## **Major Projects**
 - Instagram follow/like bot
