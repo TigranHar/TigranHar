@@ -17,4 +17,4 @@
 - Intellij Idea <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="Logo" width="30" height="20">
 
 ## **Major Projects**
-Private 😉
+Private 😉 (Mostly minecraft plugins ![Top Lang](https://github-readme-stats.vercel.app/api/top-lang/?username=TigranHar&layout=default))
