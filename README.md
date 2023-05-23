@@ -17,7 +17,4 @@
 - Intellij Idea <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="Logo" width="30" height="20">
 
 ## **Major Projects**
-- Instagram follow/like bot
-<img src="instagram_dark.png" alt="Logo" width="259" height="194">
-- Reddit profile browser
-<img src="redditbot.png" alt="Logo" width="225" height="225">
+Private 😉
