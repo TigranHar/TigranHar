@@ -1,5 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TigranHar&layout=default)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TigranHar)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TigranHar&layout=default) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TigranHar)
 
 ## **Languages Used (For Backend)**
 - C# <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="Logo" width="35" height="20">
