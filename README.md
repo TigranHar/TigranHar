@@ -1,6 +1,6 @@
 ## **Languages Used (For Backend)**
-- C# <img src="./c-sharp.png" alt="Logo" width="35" height="20">
-- NodeJS  <img src="./node-js.svg" alt="Logo" width="30" height="20">
+- C# <img src="./c-sharp.png" alt="Logo" width="35" height="35">
+- NodeJS  <img src="./node-js.svg" alt="Logo" width="30" height="30">
 - Java <img src="./java.png" alt="Logo" width="30" height="30">
 
 ## **Languages Used (For Frontend)**
